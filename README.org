@@ -1,0 +1,6 @@
+* amrich
+amrich is a Common-lisp http server
+** Contributing
+   See docs/CONTRIBUTING.org
+** Installing
+   See docs/INSTALLING

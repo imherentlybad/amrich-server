@@ -1,0 +1,21 @@
+* CONTRIBUTING.org
+In order to contribute, please branch the project. If the contribution is to fix
+an issue, please name the branch the issue #, if not, make the branch name as descriptive
+as possible. E.G. You made an email parser more efficient, name the branch email-parse-efficiency.
+
+** Significant Contributions
+If you contibute more than 15 lines of code, your contribution would be marked significant
+(for pure comment/documentation contributions, 30 lines of code). This means that you will
+need to sign the contribution waiver.
+*** Signing the WAIVER
+Set up a gpg key, and run
+#+BEGIN_SRC bash
+  gpg --no-version --armor --sign WAIVER
+#+END_SRC
+Then, move the file you have created (usually `WAIVER.asc`) to AUTHORS folder
+with the file name being your GitHub username or your real name. E.G:
+#+BEGIN_SRC bash
+
+  mv WAIVER.asc AUTHORS/lorenzoiannuzzi.asc
+
+#+END_SRC

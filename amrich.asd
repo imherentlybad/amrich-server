@@ -12,6 +12,7 @@
                  (:module "docs"
                           :serial t
                           :components ((:static-file "INSTALLING")
-                                       (:static-file "CONTRIBUTING.org")))
+                                       (:static-file "CONTRIBUTING.org")
+                                       (:static-file "WAIVER")))
                  (:static-file "README.org")
                  (:static-file "UNLICENSE")))

@@ -8,7 +8,8 @@ If you contibute more than 15 lines of code, your contribution would be marked s
 (for pure comment/documentation contributions, 30 lines of code). This means that you will
 need to sign the contribution waiver.
 
-*NOTE: YOUR CONTRIBUTION WILL NOT BE ACCEPTED IF YOUR NAME IS NOT IN AUTHORS/*
+*NOTE: YOUR CONTRIBUTION WILL NOT BE ACCEPTED IF YOUR NAME IS NOT IN AUTHORS. IF YOU ARE*
+*USING YOUR REAL NAME, PLEASE MAKE SURE THAT IT IS VISIBLE IN YOUR GITHUB PROFILE*
 *** Signing the WAIVER
 Set up a gpg key, and run
 #+BEGIN_SRC bash

@@ -7,6 +7,8 @@ as possible. E.G. You made an email parser more efficient, name the branch email
 If you contibute more than 15 lines of code, your contribution would be marked significant
 (for pure comment/documentation contributions, 30 lines of code). This means that you will
 need to sign the contribution waiver.
+
+*NOTE: YOUR CONTRIBUTION WILL NOT BE ACCEPTED IF YOUR NAME IS NOT IN AUTHORS/*
 *** Signing the WAIVER
 Set up a gpg key, and run
 #+BEGIN_SRC bash
